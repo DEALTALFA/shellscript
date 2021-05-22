@@ -1,4 +1,6 @@
 #!/bin/bash
+
+
 read -p "Are you 21 or over ?(Y/N)" ANSWER
 case "$ANSWER" in
 	[yY] | [yY][eE][sS])

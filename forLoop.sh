@@ -1,13 +1,13 @@
 #!/bin/bash
 
-#>>> basic for loop
+#>>> basic for loop >>>
 : 'Names="Brad Kevin Alice Amish Mark Deepak Alex Mark"
 for Name in $Names
 do
 	echo "hello $Name"
 done
 '
-# complete for loop<<<
+# <<< complete for loop <<<
 
 
 #>>> for loop for renaming files
@@ -20,4 +20,4 @@ do
 done
 
 
-# renaming done using for loop<<<
+# <<< renaming done using for loop <<<
