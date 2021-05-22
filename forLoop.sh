@@ -1,3 +1,4 @@
+#!/bin/bash
 
 #>>> basic for loop
 : 'Names="Brad Kevin Alice Amish Mark Deepak Alex Mark"
